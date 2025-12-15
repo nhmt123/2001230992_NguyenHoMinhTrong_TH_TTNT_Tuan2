@@ -2,6 +2,7 @@
 
 *Họ và tên: Nguyễn Hồ Minh Trọng*
 *MSSV: 2001230992*
+**Mã nguồn colab:** https://colab.research.google.com/drive/1NQAQLO31kP3QgKgiYoHRwqgwna-cnQhK?usp=sharing
 
 Dự án này triển khai hai thuật toán tìm kiếm có thông tin (Informed Search Algorithms) là **AKT (Đếm số ô sai vị trí)** và **A\* (Khoảng cách Manhattan)** để giải bài toán trượt ô (như 8-Puzzle, 15-Puzzle).
 
